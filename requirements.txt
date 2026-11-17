@@ -1,0 +1,4 @@
+tensorflow>=2.22.0rc1
+numpy
+pandas
+matplotlib
